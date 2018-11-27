@@ -6,7 +6,7 @@ List of some daily used commands for tech geeks.
 ### Login to a remote server using SSH client
 
 
-`ssh -i KEY_FILE USER@IP`
+`ssh -i {{KEY_FILE}} {{USER}}@{{IP}}`
 
 
 - <b>KEY_FILE</b>: *.pem file for authentication
@@ -22,7 +22,7 @@ List of some daily used commands for tech geeks.
 
 ### Local Machine to Server
 
-`scp  -i KEY_FILE FILE_TO_COPY USER@IP:UPLOAD_LOCATION`
+`scp  -i {{KEY_FILE}} {{FILE_TO_COPY}} {{USER}}@{{IP}}:{{UPLOAD_LOCATION}}`
 
 - <b>KEY_FILE</b>: *.pem file for authentication
 - <b>FILE_TO_COPY</b>: File name which  needs to be copied
@@ -36,7 +36,7 @@ List of some daily used commands for tech geeks.
 
 ### Server to Local Machine
 
-`scp -i KEY_FILE USER@IP:FILE_PATH LOCAL_PATH`
+`scp -i {{KEY_FILE}} {{USER}}@{{IP}}:{{FILE_PATH}} {{LOCAL_PATH}}`
 
 - <b>KEY_FILE</b>: *.pem file for authentication
 - <b>USER</b>: Username for login to the remote machine
