@@ -1,5 +1,3 @@
-## Docker
-
 ### Copy from local machine to docker container
 
 `docker cp {{SOURCE_DIRECTORY}} {{DOCKER_CONAINER}}:{{DESTINATION_DIRECTORY}}`
