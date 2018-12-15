@@ -1,5 +1,3 @@
-## SSH
-
 ### Login to a remote server using SSH client
 
 
