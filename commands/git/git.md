@@ -1,4 +1,4 @@
-# Git :octocat:
+# Git :musical_keyboard:
 Daily used git commands
 
 - [Clone a repository](git-clone-rep.md)
