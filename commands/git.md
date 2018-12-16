@@ -1,4 +1,4 @@
-**# Docker :whale2:**
+# Docker :whale2:
 Daily used docker commands
 
 - [Create and run database using docker cli](docker-create-db.md)
