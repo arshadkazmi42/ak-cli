@@ -1,6 +1,7 @@
 ### Edit a file
 
 
+
 #### Check the status
 
 `git status`
@@ -10,6 +11,7 @@ It tells us:
 * The branch we are on
 * File we have modified
 * Is there anything to commit
+
 
 
 #### Stage the changes
@@ -29,6 +31,7 @@ It tells us:
 To commit large changes
 
 
+
 #### Commmit the changes
 
 `git commit -m {{MESSAGE}}`
@@ -38,6 +41,7 @@ To commit large changes
 ##### Example:
 
 `git commit -m "Changed the name"`
+
 
 
 #### Push the changes
