@@ -19,4 +19,4 @@ If you got a suggestion about the project, let us know by adding a comment [here
 
 # Contributors
 
-We would like to show our contributors profile avatar here. If you would like to work on this, then grab the details [here](https://github.com/arshadkazmi42/ak-cli/issues/40) and create a PR
+We would like to show our contributors profile avatar here. If you would like to work on this, then grab the details [here](https://github.com/arshadkazmi42/ak-cli/issues/42) and create a PR
