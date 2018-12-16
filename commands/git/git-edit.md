@@ -32,7 +32,7 @@ To commit large changes
 
 
 
-#### Commmit the changes
+#### Commit the changes
 
 `git commit -m {{MESSAGE}}`
 
