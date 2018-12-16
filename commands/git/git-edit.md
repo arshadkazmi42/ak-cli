@@ -28,7 +28,7 @@ It tells us:
 
 `git add .`
 
-To commit large changes
+To commit all changes
 
 
 
