@@ -16,3 +16,4 @@ The basic guidelines for contributing are as follows:
 5. Push changes to GitHub.
 6. Submit your changes for review by creating a pull request.  
 7. Give a brief description about the new feature you have added in the PR.
+8. (Optional) Give star to the repo if you like the project.
