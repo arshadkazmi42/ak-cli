@@ -1,4 +1,4 @@
-# Git :whale2:
+# Git :octocat:
 Daily used git commands
 
 - [Clone a repository](git-clone-rep.md)
