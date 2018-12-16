@@ -1,6 +1,8 @@
-# Docker :whale2:
-Daily used docker commands
+# Git :octocat:
+Daily used git commands
 
-- [Create and run database using docker cli](docker-create-db.md)
-- [Copy file to docker container](docker-cp.md)
-- [Login to docker container](docker-login.md)
+- [Clone a repository](git-clone-rep.md)
+- [Create a new branch](git-nb.md)
+- [Status](git-status.md)
+- [Edit files](git-edit.md)
+- [Send a pull request](git-pull.md)
