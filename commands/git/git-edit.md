@@ -18,7 +18,7 @@ It tells us:
 
 `git add {{FILE}}`
 
-<b>FILE: </b> File to commit
+- <b>FILE: </b> File to commit
 
 ##### Example:
 
@@ -36,7 +36,7 @@ To commit large changes
 
 `git commit -m {{MESSAGE}}`
 
-<b>MESSAGE: </b> The message on the commmit
+- <b>MESSAGE: </b> The message on the commmit
 
 ##### Example:
 
