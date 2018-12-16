@@ -1,4 +1,4 @@
-### Edit a file
+### Stage and commit
 
 
 
