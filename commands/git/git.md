@@ -1,7 +1,7 @@
 # Git :musical_keyboard:
 Daily used git commands
 
-- [Clone a repository](git-clone-rep.md)
+- [Clone a repository](git-clone-repo.md)
 - [Create a new branch](git-new-branch.md)
 - [Stage and commit](git-stage-commit.md)
 - [Pull changes](git-pull.md)
