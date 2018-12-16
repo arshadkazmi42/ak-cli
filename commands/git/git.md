@@ -1,4 +1,4 @@
-# Git :octocat:
+# Git :cat2:
 Daily used git commands
 
 - [Clone a repository](git-clone-rep.md)
