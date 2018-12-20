@@ -6,6 +6,7 @@ List of some daily used commands for tech geeks.
 - :cyclone: [SCP](commands/scp/scp.md)
 - :zap: [SSH](commands/ssh/ssh.md)
 - :musical_keyboard: [GIT](commands/git/git.md)
+- :package: [ZIP](commands/zip/zip.md)
 
 # Contributing Guide
 Interested in contributing to this project, check some of our open issues [here](https://github.com/arshadkazmi42/ak-cli/issues).
