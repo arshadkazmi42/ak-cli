@@ -1,13 +1,13 @@
-# CLI Commands :sailboat:
+# CLI Commands <img align="center"   src="https://img.icons8.com/color/48/000000/sailing-ship-small.png">
 List of some daily used commands for tech geeks.
 
-- <img align="left" src="https://img.icons8.com/color/27/000000/cardboard-box.png"> &nbsp;[DOCKER](commands/docker/docker.md)
+- <img align="left" src="https://img.icons8.com/color/27/000000/whale.png"> &nbsp;[DOCKER](commands/docker/docker.md)
 
 - <img align="left" src="https://img.icons8.com/color/27/000000/piano.png"> &nbsp;[GIT](commands/git/git.md)
 
 - <img align="left" src="https://img.icons8.com/color/27/000000/shellfish.png"> &nbsp;[MONGO](commands/mongo/mongo.md)
 
-- <img align="left" src="https://img.icons8.com/color/27/000000/cardboard-box.png"> &nbsp;[SCP](commands/scp/scp.md)
+- <img align="left" src="https://img.icons8.com/doodle/27/000000/merge-vertical.png"> &nbsp;[SCP](commands/scp/scp.md)
 
 - <img align="left" src="https://img.icons8.com/color/27/000000/cloudshot.png"> &nbsp;[SSH](commands/ssh/ssh.md)
 
