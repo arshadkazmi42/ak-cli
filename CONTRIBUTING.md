@@ -9,11 +9,16 @@ If you are looking forward to start contributing to beautiful world of open sour
 **Start it right now.**
 
 The basic guidelines for contributing are as follows:  
-1. Fork the repository.
-2. Clone repository in your local environment.
-3. Create a new branch.
-4. Make necessary changes and commit those changes 
-5. Push changes to GitHub.
-6. Submit your changes for review by creating a pull request.  
-7. Give a brief description about the new feature you have added in the PR.
-8. (Optional) Give star to the repo if you like the project.
+- Fork the repo
+- Clone the repo
+- Create a branch using `git checkout -b feature-branch`
+- Make the required changes
+- Create a pull request using below commands
+  - `git add --all`
+  - `git commit -m "your commit message"`
+  - `git push origin feature-branch`
+- Go to [Repository](https://github.com/arshadkazmi42/ak-cli/)
+- Create Pull Request against `master` branch
+- Add a suitable title and description to the pull request and tag the issue number in Pull Request description, if the pull request is related to some issue logged here: [Issues](https://github.com/arshadkazmi42/ak-cli/issues)
+- You're done. Wait for your code to get reviewed and merged
+- Optional: Give us a :star: if you like our work :smile:
