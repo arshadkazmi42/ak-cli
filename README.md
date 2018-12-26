@@ -1,12 +1,12 @@
 # CLI Commands :sailboat:
 List of some daily used commands for tech geeks.
 
-- :whale2: [DOCKER](commands/docker/docker.md)
-- :musical_keyboard: [GIT](commands/git/git.md)
-- :shell: [MONGO](commands/mongo/mongo.md)
-- :cyclone: [SCP](commands/scp/scp.md)
-- :zap: [SSH](commands/ssh/ssh.md)
-- :package: [ZIP](commands/zip/zip.md)
+- :point_right: [DOCKER](commands/docker/docker.md)
+- :point_right: [GIT](commands/git/git.md)
+- :point_right: [MONGO](commands/mongo/mongo.md)
+- :point_right: [SCP](commands/scp/scp.md)
+- :point_right: [SSH](commands/ssh/ssh.md)
+- :point_right: [ZIP](commands/zip/zip.md)
 
 # Contributing Guide
 Interested in contributing to this project, check some of our open issues [here](https://github.com/arshadkazmi42/ak-cli/issues).
