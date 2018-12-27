@@ -1,4 +1,4 @@
-# SCP :cyclone:
+# SCP :point_left:
 
 Daily used scp commands
 

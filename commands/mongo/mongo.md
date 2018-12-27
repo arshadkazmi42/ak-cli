@@ -1,4 +1,4 @@
-# Mongo :shell:
+# Mongo :point_left:
 Daily used mongo commands
 
 - [Dump collection from mongoDB](mongo-dump-collection.md)

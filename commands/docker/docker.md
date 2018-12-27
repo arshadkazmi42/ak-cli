@@ -1,4 +1,4 @@
-# Docker :whale2:
+# Docker :point_left:
 Daily used docker commands
 
 - [Commit docker container](docker-container-commit.md)
