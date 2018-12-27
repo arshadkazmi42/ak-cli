@@ -1,4 +1,4 @@
-# Git :musical_keyboard:
+# Git :point_left:
 Daily used git commands
 
 - [Clone a repository](git-clone-repo.md)

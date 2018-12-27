@@ -1,4 +1,4 @@
-# ZIP :package: 
+# ZIP :point_left: 
 
 Basic zip tool commands
 
