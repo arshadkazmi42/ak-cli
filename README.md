@@ -4,6 +4,7 @@ List of some daily used commands for tech geeks.
 - :point_right: [DOCKER](commands/docker/docker.md)
 - :point_right: [GIT](commands/git/git.md)
 - :point_right: [MONGO](commands/mongo/mongo.md)
+- :point_right: [Python](commands/zip/paython.md)
 - :point_right: [SCP](commands/scp/scp.md)
 - :point_right: [SSH](commands/ssh/ssh.md)
 - :point_right: [ZIP](commands/zip/zip.md)
