@@ -1,7 +1,4 @@
-### Commit
-
-
-#### Commit the changes
+### Commit the changes
 
 `git commit -m {{MESSAGE}}`
 
@@ -10,16 +7,3 @@
 ##### Example:
 
 `git commit -m "Changed the name"`
-
-
-
-#### Push the changes
-
-`git push {{FROM}} {{BRANCH}}`
-
-- <b>FROM: </b> Where to push(The repository cloned from)
-- <b>BRANCH: </b> What to push(the new branch)
-
-##### Example:
-
-`git push origin newbranch`
