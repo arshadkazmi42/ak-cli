@@ -8,6 +8,7 @@
 #### Example:
 
 `heroku ps --app TestApp`
+
 === run: one-off dyno
 run.1: up for 5m: bash
 
@@ -17,5 +18,6 @@ web.1: created for 30s
 ##### with type
 
 `heroku ps web --app TestApp`
+
 === web: bundle exec thin start -p $PORT
 web.1: created for 30s
