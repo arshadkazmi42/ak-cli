@@ -8,6 +8,7 @@ Daily used git commands
 - [Pull changes](git-pull.md)
 - [Push changes](git-push.md)
 - [RM Cached](git-rm-cached.md)
+- [Reset File](git-reset.md)
 - [Stage](git-stage.md)
 - [Stash](git-stash.md)
 - [Stash File](git-stash-file.md)
