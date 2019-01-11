@@ -1,14 +1,20 @@
 ### Set the git name and email for current repository
 
+`git config user.name "{{NAME}}"`
+
+`git config user.email "{{EMAIL}}"`
+
+#### Example:
+
 `git config user.name "Mona Lisa"`
 
 `git config user.email "monalisa@gmail.com"`
 
-### Set the git name and email globally
+Also `--global` can be used to set user name and/or email for all local repositories
+
+#### Example command for setting user name globally:
 
 `git config --global user.name "Mona Lisa"`
-
-`git config --global user.email "monalisa@gmail.com"`
 
 What it does:
 
