@@ -4,6 +4,9 @@
 
 `git config user.email "{{EMAIL}}"`
 
+- <b>NAME: </b> Specifies your name for authoring purposes
+- <b>EMAIL: </b> Specifies your email for authoring and contacting purposes
+
 #### Example:
 
 `git config user.name "Mona Lisa"`
