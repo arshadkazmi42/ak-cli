@@ -7,4 +7,7 @@
 
 #### Example:
 
-`unzip ak-cli.zip -d /ak-cli`
+`unzip ak-cli.zip -d ak-cli`
+
+#### Realtime Usage
+<img src="../../gifs/unzip-command.gif" alt="Zip Command"/> <br>
