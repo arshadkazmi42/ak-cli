@@ -1,4 +1,4 @@
-# CLI Commands :sailboat:
+# CLI Commands :bookmark:
 List of some daily used commands for tech geeks.
 
 - :point_right: [Docker](commands/docker/docker.md)
