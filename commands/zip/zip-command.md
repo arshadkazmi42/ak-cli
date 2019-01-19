@@ -9,5 +9,5 @@
 
 `zip -r ak-cli.zip /ak-cli`
 
-#### Realtime Usage
+
 <img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
