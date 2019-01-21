@@ -4,4 +4,4 @@
 
 `npm login`
 
-<img src="../../gifs/npm-login.gif" alt="Python build dist package"/> <br>
+<img src="../../gifs/npm-login.gif" alt="NPM Login"/> <br>
