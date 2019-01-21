@@ -5,7 +5,7 @@ List of some daily used commands for tech geeks.
 - :point_right: [Git](commands/git/git.md)
 - :point_right: [Heroku](commands/heroku/heroku.md)
 - :point_right: [Mongo](commands/mongo/mongo.md)
-- :point_right: [NPM](commands/npm)
+- :point_right: [NPM](commands/npm#npm)
 - :point_right: [Python](commands/python/python.md)
 - :point_right: [Scp](commands/scp/scp.md)
 - :point_right: [Ssh](commands/ssh/ssh.md)
