@@ -1,7 +1,7 @@
 # CLI Commands :bookmark:
 List of some daily used commands for tech geeks.
 
-- :point_right: [Docker](commands/docker/docker.md)
+- :point_right: [Docker](commands/docker)
 - :point_right: [Git](commands/git/git.md)
 - :point_right: [Heroku](commands/heroku/heroku.md)
 - :point_right: [Mongo](commands/mongo/mongo.md)
