@@ -1,0 +1,16 @@
+### Load saved docker image
+
+`docker load --input {{IMAGE_NAME}}`
+
+- <b>IMAGE_NAME </b> Name/path of the saved docker image
+
+#### Example:
+
+`docker load --input ak-cli.tar`
+
+
+#### Related
+
+- [Save docker image](docker-image-save.md)
+- [List Images](docker-images-list.md)
+- [Delete docker image](docker-image-rm.md)
