@@ -11,3 +11,9 @@ Creates a new image of the container with current changes of the container
 #### Example:
 
 `docker commit ak-cli ak-cli-new:version2.0`
+
+#### Related Commands
+
+- [Create container using image](docker-container-create.md)
+- [Delete docker container](docker-container-rm.md)
+- [List Images](docker-images-list.md)
