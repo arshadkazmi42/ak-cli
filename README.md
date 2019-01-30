@@ -71,7 +71,7 @@ Read our contrubtion guide [here](CONTRIBUTING.md).
 # Help us
 We would love to get some suggestions or feedbacks for this project.
 
-If you got a suggestion about the project, let us know by adding a comment [here](https://github.com/arshadkazmi42/ak-cli/issues/39)
+If you have any suggestion about the project, let us know by adding a comment [here](https://github.com/arshadkazmi42/ak-cli/issues/39)
 
 # Contributors
 
