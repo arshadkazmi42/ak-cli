@@ -8,6 +8,3 @@
 #### Example:
 
 `zip -er ak-cli.zip /ak-cli`
-
-
-<img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
