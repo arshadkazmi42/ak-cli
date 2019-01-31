@@ -20,6 +20,7 @@ List of some daily used commands for tech geeks.
     - [List Images](commands/docker/docker-images-list.md)
     - [Load Saved Image](commands/docker/docker-load.md)
     - [Login to docker container](commands/docker/docker-login.md)
+    - [Run docker container using an image id](commands/docker/docker-run.md)
     - [Tail docker container logs](commands/docker/docker-logs-tail.md)
 - :point_right: [Git](commands/git#git-point_left)
     - [Check status](commands/git/git-status.md)

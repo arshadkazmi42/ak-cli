@@ -11,4 +11,5 @@ Daily used docker commands
 - [List Images](docker-images-list.md)
 - [Load Saved Image](docker-load.md)
 - [Login to docker container](docker-login.md)
+- [Run docker container using an image id](docker-run.md)
 - [Tail docker container logs](docker-logs-tail.md)
