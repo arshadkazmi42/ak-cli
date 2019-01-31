@@ -1,0 +1,12 @@
+### Zip a directory
+
+`pm2 start [options] {{PATH_APP}}`
+
+- <b>PATH_APP</b>: file|json|stdin|app_name|pm_id
+
+#### Example:
+
+`pm2 start app.js --name bot-engine`
+
+
+<img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
