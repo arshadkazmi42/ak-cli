@@ -8,3 +8,5 @@
 ##### Example:
 
 `git push origin newbranch`
+
+<img src="../../gifs/git-push.gif" alt="Git Push"/> <br>
