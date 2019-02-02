@@ -1,4 +1,4 @@
-### Zip a directory
+### PM2 Start
 
 `pm2 start [options] {{PATH_APP}}`
 
@@ -6,4 +6,4 @@
 
 #### Example:
 
-`pm2 start app.js --name bot-engine`
+`pm2 start app.js --name ak-cli`
