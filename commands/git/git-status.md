@@ -7,3 +7,5 @@ It tells us:
 * The branch we are on
 * File we have modified
 * Is there anything to commit
+
+<img src="../../gifs/git-status.gif" alt="Git Status"/> <br>
