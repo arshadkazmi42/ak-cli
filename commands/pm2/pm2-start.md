@@ -7,6 +7,3 @@
 #### Example:
 
 `pm2 start app.js --name bot-engine`
-
-
-<img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
