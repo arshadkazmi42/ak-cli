@@ -61,7 +61,7 @@ List of some daily used commands for tech geeks.
     - [Zip directory](commands/zip/zip-command.md)
     - [Zip directory With Encryption](commands/zip/zip-command-encryption.md)
     - [Unzip file](commands/zip/unzip-command.md)
-- :point_right: [PM2](commands/pm2#pm2-point_left)
+- [PM2](commands/pm2#pm2-point_left)
     - [pm2 start](commands/pm2/pm2-start.md)
 
 <a href="https://www.buymeacoffee.com/arshadkazmi42" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
