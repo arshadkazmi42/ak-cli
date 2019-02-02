@@ -12,5 +12,8 @@
 
 `git add .`
 
+**OR**
 
+`git add --all`
 
+<img src="../../gifs/git-stage.gif" alt="Git Stage"/> <br>

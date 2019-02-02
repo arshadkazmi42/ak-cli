@@ -20,3 +20,5 @@ Set user name and email information which will be used in every commit you do
 - **--global**: can be used to set user name and/or email for all local repositories
 
 `git config --global user.name "Mona Lisa"`
+
+<img src="../../gifs/git-name-email-config.gif" alt="Git Config"/> <br>

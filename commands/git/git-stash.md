@@ -13,3 +13,5 @@ This will stash all the uncommited changes
 ##### with comment message
 
 `git stash save "saving ak-cli stash"`
+
+<img src="../../gifs/git-stash.gif" alt="Git Stash"/> <br>
