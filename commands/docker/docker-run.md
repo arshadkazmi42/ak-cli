@@ -8,6 +8,8 @@
 
 `docker run -it hello-world`
 
+<img src="../../gifs/docker-run.gif" alt="Docker run"/> 
+
 #### Related Commands
 
 - [Login to docker container](docker-login.md)
