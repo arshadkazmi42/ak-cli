@@ -8,6 +8,8 @@
 
 `docker rmi ak-cli-image`
 
+<img src="../../gifs/docker-rmi.gif" alt="Docker image remove"/> 
+
 #### Related Commands
 
 - [List Images](docker-images-list.md)

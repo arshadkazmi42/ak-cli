@@ -8,6 +8,8 @@
 
 `docker rm ak-cli`
 
+<img src="../../gifs/docker-rm.gif" alt="Docker container remove"/> 
+
 #### Related Commands
 
 - [Create container using image](docker-container-create.md)

@@ -7,6 +7,8 @@ Lists all running containers inside docker
 ### Flags
 - `-a` : Add this flag to list all running and stopped containers
 
+<img src="../../gifs/docker-container-list.gif" alt="Docker container list"/> 
+
 #### Related Commands
 
 - [Commit docker container](docker-container-commit.md)
