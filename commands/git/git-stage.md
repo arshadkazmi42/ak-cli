@@ -16,4 +16,12 @@
 
 `git add --all`
 
+## Demo
+
 <img src="../../gifs/git-stage.gif" alt="Git Stage"/> <br>
+
+## Related
+
+- [Commit changes](git-commit.md)
+- [Push changes](git-push.md)
+- [Reset File](git-reset.md)

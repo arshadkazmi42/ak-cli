@@ -22,3 +22,9 @@ Set user name and email information which will be used in every commit you do
 `git config --global user.name "Mona Lisa"`
 
 <img src="../../gifs/git-name-email-config.gif" alt="Git Config"/> <br>
+
+## Related
+
+- [Name Email Config Check](git-name-email-config-check.md)
+- [Commit changes](git-commit.md)
+- [Push changes](git-push.md)
