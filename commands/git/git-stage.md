@@ -18,7 +18,7 @@
 
 ## Demo
 
-<img src="../../gifs/git-stage.gif" alt="Git Stage"/> <br>
+<img src="../../gifs/git-stage.gif" alt="Git Stage"/>
 
 ## Related
 
