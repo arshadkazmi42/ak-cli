@@ -16,3 +16,8 @@ This will download the project to a folder named after the Git repository(ak-cli
 `git clone https://github.com/arshadkazmi42/ak-cli.git OpenSource`
 
 This will download the project to a folder named OpenSource
+
+## Related
+
+- [Create a new branch](git-new-branch.md)
+- [Name Email Config](git-name-email-config.md)
