@@ -8,3 +8,8 @@
 #### Example:
 
 `zip -er ak-cli.zip /ak-cli`
+
+### Related
+
+- [Zip directory](zip-command.md)
+- [Unzip file](unzip-command.md)

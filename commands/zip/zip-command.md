@@ -11,3 +11,8 @@
 
 
 <img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
+
+### Related
+
+- [Zip with encryption](zip-command-encryption.md)
+- [Unzip file](unzip-command.md)
