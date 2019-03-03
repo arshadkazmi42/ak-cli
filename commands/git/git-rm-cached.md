@@ -9,3 +9,9 @@ This will stash a specific file
 #### Example:
 
 `git rm -r --cached node_modules`
+
+## Related
+
+- [Commit changes](git-commit.md)
+- [Stage](git-stage.md)
+- [Push changes](git-push.md)
