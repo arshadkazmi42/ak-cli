@@ -10,3 +10,10 @@ This will stash a specific file
 #### Example:
 
 `git stash push -m "ak-cli-file" ak-cli/commands/git/git-stash-file.md`
+
+## Related
+
+- [Check status](git-status.md)
+- [Stash](git-stash.md)
+- [Stash List](git-stash-list.md)
+- [Stash Revert](git-stash-revert.md)

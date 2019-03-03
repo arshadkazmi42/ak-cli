@@ -9,3 +9,10 @@ This command resets an added file, which is not committed yet.
 ##### Example:
 
 `git reset ak-cli.md`
+
+## Related
+
+- [Stash](git-stash.md)
+- [Stash File](git-stash-file.md)
+- [Create a new branch](git-new-branch.md)
+- [Switch Branch](git-switch-branch.md)
