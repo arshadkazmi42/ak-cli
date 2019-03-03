@@ -1,4 +1,4 @@
-### Create a new branch
+### Change working branch
 
 `git checkout {{BRANCH_NAME}}`
 

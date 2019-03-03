@@ -42,6 +42,7 @@ List of some daily used commands for tech geeks.
     - [Stash File](commands/git/git-stash-file.md)
     - [Stash List](commands/git/git-stash-list.md)
     - [Stash Revert](commands/git/git-stash-revert.md)
+    - [Switch Branch](git-switch-branch.md)
 - [Heroku](commands/heroku#heroku-point_left)
     - [List running dynos](commands/heroku/heroku-ps.md)
 - [Mongo](commands/mongo#mongo-point_left)
