@@ -10,6 +10,15 @@ Checkout command switches between branches
 
 #### Example:
 
-`git checkout -b Commands master`
+`git checkout -b commands master`
+
+
+## Demo
 
 <img src="../../gifs/git-new-branch.gif" alt="Git new branch"/> <br>
+
+## Related
+
+- [Switch Branch](git-switch-branch.md)
+- [Commit changes](git-commit.md)
+- [Stage](git-stage.md)
