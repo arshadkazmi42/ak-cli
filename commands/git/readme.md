@@ -16,3 +16,4 @@ Daily used git commands
 - [Stash File](git-stash-file.md)
 - [Stash List](git-stash-list.md)
 - [Stash Revert](git-stash-revert.md)
+- [Switch Branch](git-switch-branch.md)

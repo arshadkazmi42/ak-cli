@@ -9,4 +9,11 @@
 
 `git push origin newbranch`
 
+## Demo
+
 <img src="../../gifs/git-push.gif" alt="Git Push"/> <br>
+
+## Related
+
+- [Check status](git-status.md)
+- [Switch Branch](git-switch-branch.md)
