@@ -2,7 +2,7 @@
 
 Creates a new docker container using a loaded image
 
-`docker create -p {{PORT}}:{{PORT}} --env-file {{ENV_FILE}} {{CONTAINER_NAME}} {{IMAME_ID}}`
+`docker create -p {{PORT}}:{{PORT}} --env-file {{ENV_FILE}} --name {{CONTAINER_NAME}} {{IMAME_ID}}`
 
 - <b>PORT: </b>Port on which container needs to be run
 - <b>ENV_FILE: </b>ENV file to set environment variables inside docker container
@@ -10,7 +10,9 @@ Creates a new docker container using a loaded image
 
 #### Example:
 
-`docker create -p 8080:8080 --env-file ak-cli-prod.env ak-cli ak-cli-image`
+`docker create -p 8080:8080 --env-file ak-cli-prod.env --name ak-cli ak-cli-image`
+
+**Note:** `--env-file` and `--name` flags are optional
 
 #### Related Commands
 
