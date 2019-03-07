@@ -16,11 +16,11 @@
 
 `git add --all`
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-stage.gif" alt="Git Stage"/>
 
-## Related
+### Related
 
 - [Commit changes](git-commit.md)
 - [Push changes](git-push.md)

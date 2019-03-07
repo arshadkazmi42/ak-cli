@@ -17,11 +17,11 @@ This will download the project to a folder named after the Git repository(ak-cli
 
 This will download the project to a folder named OpenSource
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-clone.gif" alt="Git Clone"/>
 
-## Related
+### Related
 
 - [Create a new branch](git-new-branch.md)
 - [Name Email Config](git-name-email-config.md)

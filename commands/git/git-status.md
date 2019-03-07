@@ -8,11 +8,11 @@ It tells us:
 * File we have modified
 * Is there anything to commit
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-status.gif" alt="Git Status"/>
 
-## Related
+### Related
 
 - [Commit changes](git-commit.md)
 - [Reset File](git-reset.md)

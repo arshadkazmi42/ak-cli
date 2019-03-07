@@ -13,11 +13,11 @@ Checkout command switches between branches
 `git checkout -b commands master`
 
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-new-branch.gif" alt="Git new branch"/> <br>
 
-## Related
+### Related
 
 - [Switch Branch](git-switch-branch.md)
 - [Commit changes](git-commit.md)

@@ -10,7 +10,7 @@ This command resets an added file, which is not committed yet.
 
 `git reset ak-cli.md`
 
-## Related
+### Related
 
 - [Stash](git-stash.md)
 - [Stash File](git-stash-file.md)

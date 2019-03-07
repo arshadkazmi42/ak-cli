@@ -11,11 +11,11 @@ To get the latest stashed changes
 
 - <b>INDEX: </b> Index of the stash, the index can be found using [stash list](git-stash-list.md) command
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-stash-revert.gif" alt="Git Stash Revert"/> <br>
 
-## Related
+### Related
 
 - [Check status](git-status.md)
 - [Stash](git-stash.md)
