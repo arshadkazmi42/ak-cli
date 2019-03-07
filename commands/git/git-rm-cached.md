@@ -10,7 +10,7 @@ This will stash a specific file
 
 `git rm -r --cached node_modules`
 
-## Related
+### Related
 
 - [Commit changes](git-commit.md)
 - [Stage](git-stage.md)

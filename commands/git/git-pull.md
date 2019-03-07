@@ -11,7 +11,7 @@
 
 <img src="../../gifs/git-pull.gif" alt="Git Pull"/> 
 
-## Related
+### Related
 
 - [Push changes](git-push.md)
 - [Create a new branch](git-new-branch.md)

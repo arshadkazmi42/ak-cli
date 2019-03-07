@@ -4,11 +4,11 @@ This will show the list of stashes available
 
 `git stash list`
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-stash-list.gif" alt="Git Stash List"/> <br>
 
-## Related
+### Related
 
 - [Check status](git-status.md)
 - [Stash](git-stash.md)

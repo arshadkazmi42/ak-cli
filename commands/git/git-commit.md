@@ -8,11 +8,11 @@
 
 `git commit -m "Changed the name"`
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-commit.gif" alt="Git Commit"/>
 
-## Related
+### Related
 
 - [Commit changes](git-commit.md)
 - [Push changes](git-push.md)

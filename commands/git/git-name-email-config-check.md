@@ -8,7 +8,7 @@ This command can be used to check the existing configured name and email
 
 <img src="../../gifs/git-name-email-config-check.gif" alt="Git Config"/>
 
-## Related
+### Related
 
 - [Name Email Config](git-name-email-config.md)
 - [Commit changes](git-commit.md)

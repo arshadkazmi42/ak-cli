@@ -11,7 +11,7 @@ This will stash a specific file
 
 `git stash push -m "ak-cli-file" ak-cli/commands/git/git-stash-file.md`
 
-## Related
+### Related
 
 - [Check status](git-status.md)
 - [Stash](git-stash.md)

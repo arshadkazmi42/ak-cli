@@ -14,11 +14,11 @@ This will stash all the uncommited changes
 
 `git stash save "saving ak-cli stash"`
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-stash.gif" alt="Git Stash"/> <br>
 
-## Related
+### Related
 
 - [Check status](git-status.md)
 - [Stash File](git-stash-file.md)

@@ -12,10 +12,10 @@ Checkout command switches between branches
 `git checkout commands`
 
 
-## Demo
+### Demo
 
 <img src="../../gifs/git-switch-branch.gif" alt="Git switch branch"/> <br>
 
-## Related
+### Related
 
 - [Create a new branch](git-new-branch.md)

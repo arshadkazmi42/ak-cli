@@ -23,7 +23,7 @@ Set user name and email information which will be used in every commit you do
 
 <img src="../../gifs/git-name-email-config.gif" alt="Git Config"/> <br>
 
-## Related
+### Related
 
 - [Name Email Config Check](git-name-email-config-check.md)
 - [Commit changes](git-commit.md)
