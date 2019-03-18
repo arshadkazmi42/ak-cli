@@ -1,6 +1,7 @@
 # Docker :point_left:
 Daily used docker commands
 
+- [Build docker image using `Dockerfile`](docker-build-image-with-dockerfile.md)
 - [Commit docker container](docker-container-commit.md)
 - [Copy file to docker container](docker-cp.md)
 - [Create and run mongo](docker-mongo-create.md)

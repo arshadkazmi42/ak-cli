@@ -12,6 +12,7 @@ List of some daily used commands for tech geeks.
 > Give us a :star: if you like our work :heart:
 
 - [Docker](commands/docker#docker-point_left)
+    - [Build docker image using `Dockerfile`](commands/docker/docker-build-image-with-dockerfile.md)
     - [Commit docker container](commands/docker/docker-container-commit.md)
     - [Copy file to docker container](commands/docker/docker-cp.md)
     - [Create and run mongo](commands/docker/docker-mongo-create.md)
