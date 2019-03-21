@@ -9,3 +9,7 @@
 #### Example:
 
 `mongodump --db=ak-cli --collection=cli_commands --out=/arshad/ak-cli/db/dump`
+
+#### Related Commands
+
+- [Restore collection to mongoDB](mongo-restore-collection.md)
