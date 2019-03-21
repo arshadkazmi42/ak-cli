@@ -15,3 +15,7 @@ To drop the collection before importing, add `--drop` flag at the end of the com
 `mongorestore --db=ak-cli --collection=cli_commands /arshad/ak-cli/db/dump/cli_commands.bson --drop`
 
 - <b>--drop</b>: Drop flag, drops the collection before proceeding with import.
+
+#### Related Commands
+
+- [Dump collection from mongoDB](mongo-dump-collection.md)
