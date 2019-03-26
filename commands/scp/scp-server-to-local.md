@@ -12,3 +12,7 @@
 #### Example
 
 `scp -i key.pem arshad@0.0.0.0:/home/arshad/commands.zip /home/arshad/oss/commands.zip`
+
+#### Related
+
+- [Copy from local to server](scp-local-to-server.md)
