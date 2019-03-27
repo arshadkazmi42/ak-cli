@@ -8,5 +8,8 @@
 
 `python3 setup.py sdist bdist_wheel`
 
-
 <img src="../../gifs/python-build.gif" alt="Python build dist package"/> <br>
+
+#### Related
+
+- [Python deploy to pypi](python-deploy-pypi.md)
