@@ -33,6 +33,7 @@ List of some daily used commands for tech geeks.
     - [Clone a repository](commands/git/git-clone-repo.md)
     - [Commit changes](commands/git/git-commit.md)
     - [Create a new branch](commands/git/git-new-branch.md)
+    - [Modify Last Commit Details](git-commit-amend.md)
     - [Name Email Config](commands/git/git-name-email-config.md)
     - [Name Email Config Check](commands/git/git-name-email-config-check.md)
     - [Pull changes](commands/git/git-pull.md)
