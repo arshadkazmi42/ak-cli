@@ -10,6 +10,7 @@ Daily used docker commands
 - [Create container using image](docker-container-create.md)
 - [Delete docker container](docker-container-rm.md)
 - [Delete docker image](docker-image-rm.md)
+- [Get Container IP](docker-container-ip.md)
 - [List Containers](docker-container-list.md)
 - [List Images](docker-images-list.md)
 - [Load Saved Image](docker-load.md)
