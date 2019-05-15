@@ -10,4 +10,4 @@
 
 #### Related
 
-- [Tail Multiple File](tail-multiple-file.md)
+- [Tail Multiple File](tail-multiple-files.md)
