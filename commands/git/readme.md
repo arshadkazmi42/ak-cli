@@ -5,6 +5,7 @@ Daily used git commands
 - [Clone a repository](git-clone-repo.md)
 - [Commit changes](git-commit.md)
 - [Create a new branch](git-new-branch.md)
+- [Git Activity Trace](git-reflog.md)
 - [Modify Last Commit Details](git-commit-amend.md)
 - [Name Email Config](git-name-email-config.md)
 - [Name Email Config Check](git-name-email-config-check.md)
