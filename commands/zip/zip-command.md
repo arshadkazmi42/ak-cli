@@ -7,7 +7,7 @@
 
 #### Example:
 
-`zip -r ak-cli.zip /ak-cli`
+`zip -r ak-cli.zip ak-cli`
 
 
 <img src="../../gifs/zip-command.gif" alt="Zip Command"/> <br>
