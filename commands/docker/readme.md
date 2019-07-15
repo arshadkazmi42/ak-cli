@@ -4,6 +4,7 @@ Daily used docker commands
 - [Build docker image using `Dockerfile`](docker-build-image-with-dockerfile.md)
 - [Commit docker container](docker-container-commit.md)
 - [Copy file to docker container](docker-cp.md)
+- [Copy file from docker container](docker-cp-from-container.md)
 - [Create and run mongo](docker-mongo-create.md)
 - [Create and run postgres](docker-postgres-create.md)
 - [Create and run redis](docker-redis-create.md)

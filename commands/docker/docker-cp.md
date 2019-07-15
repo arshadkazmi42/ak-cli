@@ -1,4 +1,4 @@
-### Copy from local machine to docker container
+### Copy host to docker container
 
 `docker cp {{SOURCE_DIRECTORY}} {{DOCKER_CONTAINER}}:{{DESTINATION_DIRECTORY}}`
 
@@ -13,3 +13,4 @@
 #### Related Commands
 
 - [Login to docker container](docker-login.md)
+- [Copy file from docker container](docker-cp-from-container.md)
