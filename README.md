@@ -15,6 +15,7 @@ List of some daily used commands for tech geeks.
     - [Build docker image using `Dockerfile`](commands/docker/docker-build-image-with-dockerfile.md)
     - [Commit docker container](commands/docker/docker-container-commit.md)
     - [Copy file to docker container](commands/docker/docker-cp.md)
+    - [Copy file from docker container](commands/docker/docker-cp-from-container.md)
     - [Create and run mongo](commands/docker/docker-mongo-create.md)
     - [Create and run postgres](commands/docker/docker-postgres-create.md)
     - [Create and run redis](commands/docker/docker-redis-create.md)
