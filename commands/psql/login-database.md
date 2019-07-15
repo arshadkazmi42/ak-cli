@@ -8,4 +8,4 @@
 
 #### Example:
 
-`psql -h ak-cli-12qq1ww1w.rds.amazonaws.com -d ak-cli-password -U ak-cli-user`
+`psql -h ak-cli-12qq1ww1w.rds.amazonaws.com -d ak-cli-database -U ak-cli-user`

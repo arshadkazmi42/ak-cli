@@ -64,6 +64,7 @@ List of some daily used commands for tech geeks.
 - [PSQL](commands/psql#psql-point_left)
     - [Login to database](commands/psql/login-database.md)
     - [Import Dump](commands/psql/import-dump.md)
+    - [Export Dump](commands/psql/export-dump.md)
 - [Python](commands/python#python-point_left)
     - [Build python project](commands/python/python-build.md)
     - [Python deploy to pypi](commands/python/python-deploy-pypi.md)

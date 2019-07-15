@@ -2,5 +2,6 @@
 
 Basic psql commands
 
-- [Login to database](login-database.md)
+- [Export Dump](export-dump.md)
 - [Import Dump](import-dump.md)
+- [Login to database](login-database.md)
