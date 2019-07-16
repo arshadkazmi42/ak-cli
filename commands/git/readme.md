@@ -13,6 +13,7 @@ Daily used git commands
 - [Push changes](git-push.md)
 - [RM Cached](git-rm-cached.md)
 - [Reset File](git-reset.md)
+- [Restore Deleted Branch](git-restore-branch.md)
 - [Stage](git-stage.md)
 - [Stash](git-stash.md)
 - [Stash File](git-stash-file.md)

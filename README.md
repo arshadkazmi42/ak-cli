@@ -43,6 +43,7 @@ List of some daily used commands for tech geeks.
     - [Push changes](commands/git/git-push.md)
     - [RM Cached](commands/git/git-rm-cached.md)
     - [Reset File](commands/git/git-reset.md)
+    - [Restore Deleted Branch](commands/git/git-restore-branch.md)
     - [Stage](commands/git/git-stage.md)
     - [Stash](commands/git/git-stash.md)
     - [Stash File](commands/git/git-stash-file.md)
