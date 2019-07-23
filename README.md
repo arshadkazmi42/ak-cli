@@ -76,6 +76,8 @@ List of some daily used commands for tech geeks.
     - [Copy from server to local](commands/scp/scp-server-to-local.md)
 - [Ssh](commands/ssh#ssh-point_left)
     - [Login to Remote Server](commands/ssh/ssh-server.md)
+- [Tar](commands/tar#tar-point_left)
+    - [Tar Extract](commands/tar/extract.md)
 - [Zip](commands/zip#zip-point_left)
     - [Zip directory](commands/zip/zip-command.md)
     - [Zip directory With Encryption](commands/zip/zip-command-encryption.md)
