@@ -1,4 +1,4 @@
-### Extract `tar` package
+### Extract archieve
 
 `tar -xvf {{FILE_NAME}} -C {{DESTINATION_PATH}}`
 
