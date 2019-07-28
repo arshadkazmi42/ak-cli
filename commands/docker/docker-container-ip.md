@@ -12,4 +12,5 @@
 #### Related Commands
 
 - [Create container using image](docker-container-create.md)
+- [Inspect docker container](docker-inspect.md)
 - [Run docker container using an image id](docker-run.md)

@@ -23,6 +23,7 @@ List of some daily used commands for tech geeks.
     - [Delete docker container](commands/docker/docker-container-rm.md)
     - [Delete docker image](commands/docker/docker-image-rm.md)
     - [Get Container IP](commands/docker/docker-container-ip.md)
+    - [Inspect Docker Container](commands/docker/docker-inspect.md)
     - [List Containers](commands/docker/docker-container-list.md)
     - [List Images](commands/docker/docker-images-list.md)
     - [Load Saved Image](commands/docker/docker-load.md)
