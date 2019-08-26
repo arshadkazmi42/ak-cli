@@ -38,7 +38,7 @@ List of some daily used commands for tech geeks.
     - [Commit changes](commands/git/git-commit.md)
     - [Create a new branch](commands/git/git-new-branch.md)
     - [Git Activity Trace](commands/git/git-reflog.md)
-    - [Modify Last Commit Details](git-commit-amend.md)
+    - [Modify Last Commit Details](commands/git/git-commit-amend.md)
     - [Name Email Config](commands/git/git-name-email-config.md)
     - [Name Email Config Check](commands/git/git-name-email-config-check.md)
     - [Pull changes](commands/git/git-pull.md)
