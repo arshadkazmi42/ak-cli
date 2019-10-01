@@ -11,6 +11,6 @@
 
 #### Related Commands
 
-- [Save docker image](docker-image-save.md)
+- [Save docker image](docker-save.md)
 - [List Images](docker-images-list.md)
 - [Delete docker image](docker-image-rm.md)
