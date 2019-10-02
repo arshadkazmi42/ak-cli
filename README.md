@@ -27,6 +27,7 @@ List of some daily used commands for tech geeks.
     - [List Containers](commands/docker/docker-container-list.md)
     - [List Images](commands/docker/docker-images-list.md)
     - [Load Saved Image](commands/docker/docker-load.md)
+    - [Create image from tarball](commands/docker/docker-import.md)
     - [Login to docker container](commands/docker/docker-login.md)
     - [Rename docker container](commands/docker/docker-rename.md)
     - [Run docker container using an image id](commands/docker/docker-run.md)

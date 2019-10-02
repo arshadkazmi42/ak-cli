@@ -11,6 +11,7 @@
 
 #### Related Commands
 
+- [Create image from tarball](docker-import.md)
 - [Save docker image](docker-save.md)
 - [List Images](docker-images-list.md)
 - [Delete docker image](docker-image-rm.md)
