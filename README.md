@@ -20,6 +20,7 @@ List of some daily used commands for tech geeks.
     - [Create and run postgres](commands/docker/docker-postgres-create.md)
     - [Create and run redis](commands/docker/docker-redis-create.md)
     - [Create container using image](commands/docker/docker-container-create.md)
+    - [Create image from tarball](commands/docker/docker-import.md)
     - [Delete docker container](commands/docker/docker-container-rm.md)
     - [Delete docker image](commands/docker/docker-image-rm.md)
     - [Get Container IP](commands/docker/docker-container-ip.md)

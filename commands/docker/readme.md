@@ -9,6 +9,7 @@ Daily used docker commands
 - [Create and run postgres](docker-postgres-create.md)
 - [Create and run redis](docker-redis-create.md)
 - [Create container using image](docker-container-create.md)
+- [Create image from tarball](commands/docker/docker-import.md)
 - [Delete docker container](docker-container-rm.md)
 - [Delete docker image](docker-image-rm.md)
 - [Get Container IP](docker-container-ip.md)
