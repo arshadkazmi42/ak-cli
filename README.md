@@ -62,6 +62,7 @@ List of some daily used commands for tech geeks.
 - [Mongo](commands/mongo#mongo-point_left)
     - [Dump collection from mongoDB](commands/mongo/mongo-dump-collection.md)
     - [Restore collection to mongoDB](commands/mongo/mongo-restore-collection.md)
+    - [Dump database from mongoDB](commands/mongo/mongo-dump-database.md)
 - [NPM](commands/npm#npm-point_left)
     - [Login](commands/npm/npm-login.md)
     - [Init](commands/npm/npm-init.md)
