@@ -62,6 +62,7 @@ List of some daily used commands for tech geeks.
     - [Tail Multiple Files](commands/linux/tail-multiple-files.md)
 - [Mongo](commands/mongo#mongo-point_left)
     - [Dump collection from mongoDB](commands/mongo/mongo-dump-collection.md)
+    - [Dump database from mongoDB](commands/mongo/mongo-dump-database.md)
     - [Restore collection to mongoDB](commands/mongo/mongo-restore-collection.md)
 - [NPM](commands/npm#npm-point_left)
     - [Login](commands/npm/npm-login.md)
