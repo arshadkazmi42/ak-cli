@@ -59,6 +59,7 @@ List of some daily used commands for tech geeks.
     - [Search Application Process](commands/linux/search-application-process.md)
     - [Tail File](commands/linux/tail-one-file.md)
     - [Tail Multiple Files](commands/linux/tail-multiple-files.md)
+    - [Get Linux Flavor & Version](commands/linux/get-linux-flavor-version.md)
 - [Mongo](commands/mongo#mongo-point_left)
     - [Dump collection from mongoDB](commands/mongo/mongo-dump-collection.md)
     - [Restore collection to mongoDB](commands/mongo/mongo-restore-collection.md)
