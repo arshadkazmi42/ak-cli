@@ -55,7 +55,7 @@ List of some daily used commands for tech geeks.
     - [Switch Branch](commands/git/git-switch-branch.md)
 - [Heroku](commands/heroku#heroku-point_left)
     - [List running dynos](commands/heroku/heroku-ps.md)
-- [KAFKA](commands/kafka#kafka-point_left)
+- [Kafka](commands/kafka#kafka-point_left)
     - [Create Topic](commands/kafka/kafka.md)
 - [Linux](commands/linux#linux-point_left)
     - [Get Linux Flavor & Version](commands/linux/get-linux-flavor-version.md)
