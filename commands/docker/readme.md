@@ -23,3 +23,4 @@ Daily used docker commands
 - [Save docker image as package](docker-save.md)
 - [Tail docker container logs](docker-logs-tail.md)
 - [Tag docker image](docker-tag.md)
+- [Login to docker registry](docker-registry-login.md)
