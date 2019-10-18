@@ -1,4 +1,5 @@
 # Docker :point_left:
+
 Daily used docker commands
 
 - [Build docker image using `Dockerfile`](docker-build-image-with-dockerfile.md)
@@ -21,3 +22,4 @@ Daily used docker commands
 - [Run docker container using an image id](docker-run.md)
 - [Save docker image as package](docker-save.md)
 - [Tail docker container logs](docker-logs-tail.md)
+- [Push docker image to registry](docker-push.md)
