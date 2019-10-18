@@ -33,6 +33,7 @@ List of some daily used commands for tech geeks.
   - [Run docker container using an image id](commands/docker/docker-run.md)
   - [Save docker image as package](commands/docker/docker-save.md)
   - [Tail docker container logs](commands/docker/docker-logs-tail.md)
+  - [Tag docker image](commands/docker/docker-tag.md)
   - [Push docker image to registry](commands/docker/docker-push.md)
 - [Git](commands/git#git-point_left)
   - [Check status](commands/git/git-status.md)

@@ -22,4 +22,5 @@ Daily used docker commands
 - [Run docker container using an image id](docker-run.md)
 - [Save docker image as package](docker-save.md)
 - [Tail docker container logs](docker-logs-tail.md)
+- [Tag docker image](docker-tag.md)
 - [Push docker image to registry](docker-push.md)
