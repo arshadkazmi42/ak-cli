@@ -18,6 +18,7 @@ Daily used docker commands
 - [List Images](docker-images-list.md)
 - [Load Saved Image](docker-load.md)
 - [Login to docker container](docker-login.md)
+- [Login to docker registry](docker-registry-login.md)
 - [Push docker image to registry](docker-push.md)
 - [Rename docker container](docker-rename.md)
 - [Run docker container using an image id](docker-run.md)
