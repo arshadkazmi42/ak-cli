@@ -2,6 +2,7 @@
 
 Collection of useful linux commands
 
+- [Clear Terminal](clear.md)
 - [Get Linux Flavor & Version](get-linux-flavor-version.md)
 - [Search Application Process](search-application-process.md)
 - [Tail File](tail-one-file.md)

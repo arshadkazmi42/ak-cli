@@ -60,10 +60,12 @@ List of some daily used commands for tech geeks.
 - [Kafka](commands/kafka#kafka-point_left)
   - [Create Topic](commands/kafka/kafka.md)
 - [Linux](commands/linux#linux-point_left)
+  - [Clear Terminal](commands/linux/clear.md)
   - [Get Linux Flavor & Version](commands/linux/get-linux-flavor-version.md)
   - [Search Application Process](commands/linux/search-application-process.md)
   - [Tail File](commands/linux/tail-one-file.md)
   - [Tail Multiple Files](commands/linux/tail-multiple-files.md)
+
 - [Mongo](commands/mongo#mongo-point_left)
   - [Dump collection from mongoDB](commands/mongo/mongo-dump-collection.md)
   - [Dump database from mongoDB](commands/mongo/mongo-dump-database.md)
