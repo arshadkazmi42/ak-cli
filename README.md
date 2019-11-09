@@ -9,10 +9,11 @@ List of some daily used commands for tech geeks.
 
 Please consider donating, if you like my work
 
-> Give us a :star: if you like our work :heart:
+Give us a :star: if you like our work :heart:
 
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli)
 [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/graphs/contributors)
@@ -24,7 +25,7 @@ Please consider donating, if you like my work
 
 - [Docker](#docker)
 - [Git](#git)
-- [Heroku](#heruko)
+- [Heroku](#heroku)
 - [Kafka](#kafka)
 - [Linux](#linux)
 - [Mongo](#mongo)
