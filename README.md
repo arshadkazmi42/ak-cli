@@ -1,6 +1,6 @@
 <div align="center">
 
-# CLI Commands :bookmark:
+<img src='https://github.com/arshadkazmi42/ak-cli/blob/master/assets/akcli.png' height="80">
 
 List of some daily used commands for tech geeks.
 
