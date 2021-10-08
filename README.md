@@ -103,7 +103,7 @@ Give us a :star: if you like our work :heart:
 
 - [Clear Terminal](commands/linux/clear.md) - Clear current visible terminal.
 - [Get Flavor & Version](commands/linux/get-linux-flavor-version.md) - Get current running Linux OS flavor and version details.
-- [List contents of directory](commands/linux/ls.md) - List all the contents of the current directory
+- [List contents of directory](commands/linux/list.md) - List all the contents of the current directory
 - [Search Application Process](commands/linux/search-application-process.md) - Search for running application process by name.
 - [Tail File](commands/linux/tail-one-file.md) - Live tail any file.
 - [Tail Multiple Files](commands/linux/tail-multiple-files.md) - Live tail multiple files in a directory.
