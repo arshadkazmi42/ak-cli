@@ -1,6 +1,6 @@
-### Delete a branch from git repository
+### Delete a branch from remote git repository
 
-This command is used for deleting a branch
+This command is used for deleting a branch from remote
 
 `git push origin --delete <branch_name>`
 
