@@ -5,16 +5,15 @@
 List of some daily used commands for tech geeks.
 
 Give us a :star: if you like our work :heart:
-
-</div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 [![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli)
 [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/commits/master)
 [![Issues](https://img.shields.io/github/issues/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/arshadkazmi42/ak-cli.svg)](https://github.com/arshadkazmi42/ak-cli/pulls)
+
+</div>
 
 ## Contents
 
