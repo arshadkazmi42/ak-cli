@@ -14,5 +14,5 @@ This will copy the commit from source branch and add it in current branch
 
 ### Related
 
-- [Commit Ammend](git-commit-amend.md)
+- [Commit Amend](git-commit-amend.md)
 - [Commit](git-commit.md)
