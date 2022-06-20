@@ -63,6 +63,7 @@ Give us a :star: if you like our work :heart:
 ## GIT
 
 - [Clone repository](commands/git/git-clone-repo.md) - Clone a repository to any location.
+- [Cherry Pick Commit](commands/git/git-cherry-pick-commit.md) - Copy one commit from one branch to another
 - [Commit changes](commands/git/git-commit.md) - Commit the local changes.
 - [Configure Author](commands/git/git-name-email-config.md) - Configure author name and email.
 - [Configured Author](commands/git/git-name-email-config-check.md) - Check configured author name or email.
