@@ -4,7 +4,13 @@ The `ls` command is used to list files or directories in Linux and other Unix-ba
 
 ### Example
 
+- List all the contents of the directory
+
 `ls`
+
+- List all the files of the directory with size details in `Megabytes`
+
+`ls -l --block-size=M` 
 
 ### Demo
 
