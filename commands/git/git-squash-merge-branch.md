@@ -10,4 +10,4 @@ Merge branch to the master by combining all commits of the branch and merging as
 
 `git merge --squash feature-add-dashboard`
 
-This will merge the branch 'feature-add-dashboard' to the master, and will squash all branch commits into a single commit in master
+This will merge the branch `feature-add-dashboard` to the master, and will squash all branch commits into a single commit in master
