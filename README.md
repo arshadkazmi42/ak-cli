@@ -83,6 +83,7 @@ Give us a :star: if you like our work :heart:
 - [Stash List](commands/git/git-stash-list.md) - Check stash stack list.
 - [Stash Revert](commands/git/git-stash-revert.md) - Revert stashed changes from stash stack.
 - [Switch Branch](commands/git/git-switch-branch.md) - Switch current working branch.
+- [Squash Merge Branch](commands/git/git-squash-merge-branch.md) - Squash merge branch to master
 
 ## Heroku
 
