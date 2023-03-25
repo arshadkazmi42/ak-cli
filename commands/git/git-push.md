@@ -9,9 +9,9 @@
 
 `git push origin newbranch`
 
-`git push --force` 
+`git push origin newbranch --force` 
 
-`git push --force-with-lease`
+`git push newbranch --force-with-lease`
 
 `--force` overwrites a remote branch with your local branch. <br>
 
