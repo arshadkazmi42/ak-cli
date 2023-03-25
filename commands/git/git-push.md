@@ -12,7 +12,7 @@
 #### Difference between:
 `git push --force` & `git push --force-with-lease`
 
-`force` overwrites a remote branch with your local branch. <br>
+`--force` overwrites a remote branch with your local branch. <br>
 
 `--force-with-lease` is a safer option that will not overwrite any work on the remote branch if more commits were added to the remote branch (by another team-member working on the same repository). It ensures you do not overwrite someone elses work by force pushing.
 
