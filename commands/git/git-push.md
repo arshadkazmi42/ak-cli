@@ -10,7 +10,9 @@
 `git push origin newbranch`
 
 #### Difference between:
-`git push --force` & `git push --force-with-lease`
+`git push --force` 
+
+`git push --force-with-lease`
 
 `--force` overwrites a remote branch with your local branch. <br>
 
